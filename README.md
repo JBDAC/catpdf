@@ -1,4 +1,5 @@
 python catpdf.py -h
+
 usage: catpdf.py [-h] [-e ENTRIES_PER_PAGE] [-u URL_PREFIX] [-a] [-s] [-d]
                  pdf_list output_filename index_file
 
