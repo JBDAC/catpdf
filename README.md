@@ -8,8 +8,7 @@ import argparse
 
 After running it over your files, you should get a single large pdf file as output. The source files are not touched. It's free, and by using it you accept that I take no responsibility for any use, or consequences!
 
-==============
-
+```
 python catpdf.py -h
 
 usage: catpdf.py [-h] [-e ENTRIES_PER_PAGE] [-u URL_PREFIX] [-a] [-s] [-d]
@@ -34,3 +33,4 @@ options:
                         provided
   -s, --separator       Do write separator pages to the merged PDF
   -d, --document-id     Sequential Document number ID
+```
